@@ -16,7 +16,7 @@
     <string name="password">סיסמא</string>
     <string name="email">דואר אלקטרוני</string>
     <string name="signin">התחבר</string>
-    <string name="guest_mode">שחק כארוח</string>
+    <string name="guest_mode">שחק כאורח</string>
     <string name="back">חזרה</string>
     <string name="attention">תשמות לב!</string>
     <string name="are_you_sure_you_don_t_want_to_be_remembered">את/ה בטוח/ה שאת/ה לא רוצה להישאר מחובר?</string>

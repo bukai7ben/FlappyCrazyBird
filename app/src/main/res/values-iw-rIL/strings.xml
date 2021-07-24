@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlappyBird</string>
+    <string name="best">תוצאת שיא</string>
+    <string name="restart">שחק שוב</string>
+    <string name="game_over">סוף משחק</string>
+    <string name="records">טבלת שיאים</string>
+    <string name="SHOP">חנות</string>
+    <string name="logout">התנתק</string>
+    <string name="records_table">טבלת שיאים</string>
+    <string name="username">שם משתמש</string>
+    <string name="score">תוצאה</string>
+    <string name="user_name">שם משתמש</string>
+    <string name="register">הירשם</string>
+    <string name="remember_me">זכור אותי</string>
+    <string name="password">סיסמא</string>
+    <string name="email">דואר אלקטרוני</string>
+    <string name="signin">התחבר</string>
+    <string name="guest_mode">שחק כארוח</string>
+    <string name="back">חזרה</string>
+    <string name="attention">תשמות לב!</string>
+    <string name="are_you_sure_you_don_t_want_to_be_remembered">את/ה בטוח/ה שאת/ה לא רוצה להישאר מחובר?</string>
+    <string name="no">לא</string>
+    <string name="yes">כן</string>
+    <string name="buy">קנה</string>
+    <string name="select">בחר</string>
+    <string name="please_press_play_to_continue">אנא לחץ להמשך</string>
+    <string name="shop">חנות</string>
+    <string name="sorry">סליחה אין לך מספיק מטבעות</string>
+    <string name="isSelected">\" נבחר \"</string>
+    <string name="UserName_is_required">אנא הזן שם משתמש</string>
+    <string name="Email_is_required">אנא הזן דואר אלקטרוני</string>
+    <string name="Password_is_required">אנא הזן סיסמא חוקית</string>
+    <string name="length_password">סיסמא מינמלית של  6 ספרות</string>
+    <string name="registered_successfully">משתמש נרשם בהצלחה</string>
+    <string name="Please_provide_valid_email">אנא הזן דואר אלקטרוני חוקי</string>
+    <string name="Failed_to_register">נכשל בהרשמה בבקשה נסה שנית!</string>
+    <string name="Failed_to_register_try_again">נכשל בהרשמה בבקשה נסה שנית!</string>
+    <string name="Fail_to_get_data">נכשל בקריאת נתונים</string>
+</resources>

@@ -7,4 +7,4 @@ https://youtu.be/iMGmJzCYa8o
 ![תמונה 3](https://user-images.githubusercontent.com/66356379/126868416-7b71522f-427d-4788-88da-3c040d6ae583.jpg)
 ![תמונה2](https://user-images.githubusercontent.com/66356379/126868418-7e6a76a9-4466-4baf-ba3f-d725ca8194e1.jpg)
 # Compiling
-To compile the project clone the repository to your computer, open Android Studio and compile
+To compile the project clone the repository to your computer, open Android Studio and compile.
